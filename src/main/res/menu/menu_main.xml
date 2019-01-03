@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Reset form, should never be in the overflow -->
+    <item android:id="@+id/action_reset"
+        android:title="@string/reset_form"
+        android:showAsAction="never"/>
+
+</menu>
